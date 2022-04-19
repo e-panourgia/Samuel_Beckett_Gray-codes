@@ -1,5 +1,5 @@
 # Samuel Beckett and  Gray codes
-A python script that find Beckett-Gray, Gray codes. 
+A python script that finds Beckett-Gray, Gray codes. 
 
 **Run**
 
